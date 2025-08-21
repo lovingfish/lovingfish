@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+***这是我的小号，专门fork项目来部署用的*
+
 <!--
 **lovingfish/lovingfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
