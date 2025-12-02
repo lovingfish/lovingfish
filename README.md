@@ -83,7 +83,45 @@ Main Account (@main)        Deployment Account (lovingfish)
 
 ---
 
+## 🍴 Fork Analysis & Active Projects
+
+### 🌟 Most Active Forks
+Projects I actively maintain and deploy:
+
+| Repository | Description | Tech Stack | Status |
+|-----------|-------------|------------|---------|
+| 🔗 [Project Name](link) | Brief description of what this fork is used for | ![Badge](https://img.shields.io/badge/Stack-Technology-blue) | 🟢 Active |
+| 🔗 [Project Name](link) | Brief description | ![Badge](https://img.shields.io/badge/Stack-Technology-green) | 🟢 Active |
+
+### 🔨 Development & Testing Forks
+Forks used for learning and experimentation:
+
+- **[Repository Name](link)** - Learning purpose or experiment description
+- **[Repository Name](link)** - Testing specific features or integrations
+
+### 📦 Deployed Applications
+Live deployments from forked repositories:
+
+- 🌐 **[App Name](deployment-link)** - Deployed from [original-repo](link)
+- 🌐 **[App Name](deployment-link)** - Deployed from [original-repo](link)
+
+<br/>
+
+---
+
 ## 🎯 How This Works
+
+### Fork Decision Flow (Mermaid Diagram)
+
+```mermaid
+graph LR
+    A[Discover Project] --> B[Fork Repository]
+    B --> C[Local Testing]
+    C --> D{Worth Deploying?}
+    D -->|Yes| E[Deploy & Maintain]
+    D -->|No| F[Archive/Reference]
+    E --> G[Monitor & Update]
+```
 
 ### Deployment Flow
 
@@ -189,6 +227,13 @@ Main Account (@main)        Deployment Account (lovingfish)
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lovingfish&style=flat-square&color=FF6B9D)
+
+```text
+🍴 Total Forks:        [Your Count]
+🚀 Active Deployments: [Your Count]  
+⭐ Stars Received:     [Your Count]
+🔄 Regular Updates:    [Your Count]
+```
 
 </div>
 
